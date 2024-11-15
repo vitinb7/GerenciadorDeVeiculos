@@ -1,5 +1,14 @@
 # Gerenciador de Veículos
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-7A7A7A?style=flat&logo=entity-framework&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+![Swagger](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Swagger-logo.png/64px-Swagger-logo.png)
+
+
 O **Gerenciador de Veículos** é uma aplicação que permite o gerenciamento de veículos, construída com **Windows Forms** no frontend e **ASP.NET Core** no backend, utilizando **Entity Framework** para interagir com um banco de dados **SQLite**. A aplicação possibilita funcionalidades como listagem, cadastro, atualização e exclusão de veículos, além de exibir informações sobre os usuários cadastrados.
 
 ## Funcionalidades
@@ -20,7 +29,6 @@ Além disso, a aplicação possui um sistema de autenticação com **JWT (JSON W
 - **Backend**:
   - ASP.NET Core
   - Entity Framework Core
-  - SQLite
 - **Autenticação**:
   - JWT Bearer Tokens
 - **Banco de Dados**:
